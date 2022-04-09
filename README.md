@@ -1,16 +1,38 @@
-### Hi there 👋
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+a+FrontEnd+Developer+and+Tech+PR)](https://git.io/typing-svg)
 
-<!--
-**StiagoR/StiagoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m Santiago.
+- 🌱 I’m currently learning the skills to be a complete Fullstack dev.
+- 🔨 I’m up to collaborate on any project to gain experience(related to my goals), and meet creative people who like to work as a team.
+<!-- - 💻 <a href="https://jolimadev.com/">Portfolio</a> -->
+- 📫 How to reach me? Linkedin/stiagor <img src= https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg />
+------------------------------------------------
+  ![](https://komarev.com/ghpvc/?username=olimajs&color=blue)
+<div style = "display: inline_block">Tech & Tools : <br>
+  <img align="center" alt="snt-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+  <img align="center" alt="snt-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <img align="center" alt="snt-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img align="center" alt="snt-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="center" alt="snt-vs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img align="center" alt="snt-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+    <img align="center" alt="snt-github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="center" alt="snt-tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img align="center" alt="snt-figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img align="center" alt="snt-canva" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+    <img align="center" alt="snt-windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 
-Here are some ideas to get you started:
+  
+  </div> <br>
+  
+  <div> Currently learning:
+    
+ <img align="center" alt="snt-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+  <img align="center" alt="snt-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   
+  <img align="center" alt="snt-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
+
+
+  </div> <br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StiagoR/&show_icons=true&theme=dark)
