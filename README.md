@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+a+FrontEnd+Developer+and+Tech+PR)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;I'm+a+FrontEnd+Developer+and+Engineer)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m Santiago.
 - 🌱 I’m currently learning the skills to be a complete Fullstack dev.
@@ -6,7 +6,7 @@
 <!-- - 💻 <a href="https://jolimadev.com/">Portfolio</a> -->
 - 📫 How to reach me? Linkedin/stiagor <img src= https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg />
 ------------------------------------------------
-  ![](https://komarev.com/ghpvc/?username=olimajs&color=blue)
+  ![](https://komarev.com/ghpvc/?username=StiagoR&color=brightgreen)
 <div style = "display: inline_block">Tech & Tools : <br>
   <img align="center" alt="snt-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="snt-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -35,4 +35,4 @@
 
   </div> <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StiagoR/&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StiagoR&show_icons=true&theme=dark)
